@@ -51,4 +51,4 @@
 
 
 
-![示例图像](./images/jiemian.png)
+![示例图像](images/jiemian.png)
